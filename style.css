@@ -127,7 +127,7 @@ header .navbar {
 	justify-content: center;
 	flex-direction: column;
 	display: flex;
-	height: 700px;
+	height: 650px;
 }
 
 .home-text {
@@ -188,8 +188,8 @@ header .navbar {
 /********** SERVICE AREA**************/
 #service {
 	padding: 80px 0 160px;
-	background-color: #000;
-	color: #fff;
+	background color: #fff;
+	color: #00000;
 }
 
 .section-heading {
@@ -198,7 +198,7 @@ header .navbar {
 .section-heading h2 {
 	font-size: 40px;
 	font-weight: normal;
-	color: #fff;
+	color: #00000;
 }
 
 .section-heading span {
@@ -233,7 +233,7 @@ header .navbar {
 	background-color: #f20101;
 	border-radius: 0;
 	font-weight: 700;
-	color: #fff;
+	color: #00000;
 }
 
 .single-item:hover {
@@ -242,13 +242,13 @@ header .navbar {
 
 .single-item a:hover {
 	color: #000;
-	background-color: #fff;
+	background-color: #00000;
 }
 
 /***************** our team css **************/
 #team {
 	padding: 70px 0;
-	background: url(img/team-bg.jpg) no-repeat;
+	background color: #fff;
 	background-size: cover;
 
 }
@@ -339,7 +339,7 @@ header .navbar {
 }
 
 .bar {
-	color: #fff;
+	color: #c0c0c0;
 }
 
 .wp-bar {
@@ -348,11 +348,11 @@ header .navbar {
 
 .bar .progress {
 	height: 12px;
-	background-color: #f20101;
+	background-color: #800000;
 }
 
 .bar .progress-bar {
-	background-color: #fff;
+	background-color: #c0c0c0;
 }
 
 .bar h4 {
@@ -531,7 +531,7 @@ h1 sup {
 
 #news {
 	padding: 70px 0;
-	background: url(img/home-bg.jpg) no-repeat;
+	background color: #fff;
 	background-size: cover;
 }
 
@@ -718,7 +718,7 @@ label {
 /******* footer css********/
 footer {
 	padding: 25px 0 20px;
-	background-color: #EB0000;
+	background-color: #000000;
 	color: #FFF;
 }
 
